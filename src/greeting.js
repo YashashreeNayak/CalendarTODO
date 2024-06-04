@@ -1,5 +1,5 @@
 
-/*const naming = document.querySelector('.naming-item')
+const naming = document.querySelector('.naming-item')
     , input = naming.querySelector('input')
     , greeting = document.querySelector('.greeting-item');
 
