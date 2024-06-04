@@ -1,7 +1,8 @@
 const placeDOM = document.querySelector('.location')
     , temperatureDOM = document.querySelector('.temperature');
 
-const API_KEY = 'a29cb33b78a528c567aca30580f59c45'
+const API_KEY = '1f1e72cdbc20a0059cd0d1427baa35d5
+'
     , COORDS = 'coords';
 
 const getWeather1 = (lat, lng) => {
